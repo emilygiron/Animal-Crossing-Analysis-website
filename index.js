@@ -1,7 +1,7 @@
 var viz
 function initViz(){
 		
-			 var url = 'http://public.tableau.com/views/Project2_16393538324200/VillagerbyAveragebellssold',
+			 var url = 'https://public.tableau.com/views/Project2_16393538324200/VillagerbyAveragebellssold',
 			vizDiv = document.getElementById('vizContainer'),
 			 options = {
 			   hideTabs: true,
@@ -22,7 +22,7 @@ function initViz(){
 		
 function initViz2(){
 		
-			 var url = 'http://public.tableau.com/views/Project2_16393538324200/AveragebellspervillagerbySpecies',
+			 var url = 'https://public.tableau.com/views/Project2_16393538324200/AveragebellspervillagerbySpecies',
 			vizDiv = document.getElementById('vizContainer'),
 			 options = {
 			   hideTabs: true,
@@ -43,7 +43,7 @@ function initViz2(){
 		
 function initViz3(){
 		
-			 var url = 'http://public.tableau.com/views/Project2_16393538324200/WordCloud',
+			 var url = 'https://public.tableau.com/views/Project2_16393538324200/WordCloud',
 			vizDiv = document.getElementById('vizContainer'),
 			 options = {
 			   hideTabs: true,
